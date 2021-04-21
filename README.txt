@@ -1,1 +1,1 @@
-Hello git and hub, I gona prac. you!
+Hello git and hub, I'm gona prac. you!
